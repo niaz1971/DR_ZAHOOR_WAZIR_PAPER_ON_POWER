@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
+
+
+https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
